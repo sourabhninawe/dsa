@@ -1,2 +1,2 @@
 # dsa
-Data Structures and Algorithms
+Repository for hosting basic Data Structures and Algorithms problems
